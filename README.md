@@ -16,11 +16,11 @@ Passionate about creating clean UI, efficient backend logic, and impactful digit
 
 ##  Experience
 
-### **Oasis Infobyte — Software Engineer Intern** *(May 2025 – Jul 2025)*  
+### **Oasis Infobyte  Software Engineer Intern** *(May 2025 – Jul 2025)*  
 - Developed 5+ responsive projects (Landing Page, Portfolio, Converter, Calculator, Tribute Page)  
 - Wrote clean, modular code using HTML, CSS, and JavaScript  
 
-### **Info Bharat Interns — Web Development Intern** *(Feb 2025 – Mar 2025)*  
+### **Info Bharat Interns  Web Development Intern** *(Feb 2025 – Mar 2025)*  
 - Worked on responsive UI projects using HTML, CSS, and JavaScript  
 - Followed UI/UX best practices and built task-based modules  
 
