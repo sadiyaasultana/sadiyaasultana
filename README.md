@@ -6,7 +6,7 @@ Currently pursuing a B.Tech in Information Science & Engineering (CGPA: 8.76) an
 Passionate about creating clean UI, efficient backend logic, and impactful digital solutions.
 
 
-##  About Me
+##  🚀About Me
 -  I’m currently working on Full-Stack projects using React, Node.js, MongoDB, and SQL  
 -  Learning advanced JavaScript, REST APIs, and backend development  
 -  Open to collaborating on web apps, UI/UX projects, and NLP-based applications  
