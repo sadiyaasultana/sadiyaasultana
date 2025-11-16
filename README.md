@@ -28,7 +28,7 @@ Passionate about creating clean UI, efficient backend logic, and impactful digit
 
 ##  Projects
 
-### ** Automatic Legal Clause Extraction Using NLP**
+### **Automatic Legal Clause Extraction Using NLP**
 - Developed an NLP-based system that predicts the legal clause for a given crime  
 - Implemented text preprocessing, tokenization, and ML classification models  
 - Designed an interactive Flask-based UI for prediction results  
