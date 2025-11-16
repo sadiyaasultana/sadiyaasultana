@@ -1,6 +1,6 @@
 #  Hey there!
 
-Aspiring Full-Stack Web Developer skilled in HTML, CSS, JavaScript, React, Node.js, and SQL.  
+I'm an Aspiring Full-Stack Web Developer skilled in HTML, CSS, JavaScript, React, Node.js, and SQL.  
 Strong problem-solving foundation with hands-on experience in building responsive, scalable, and user-friendly applications.  
 Currently pursuing a B.Tech in Information Science & Engineering (CGPA: 8.76) and continuously improving through real projects, internships, and certifications.  
 Passionate about creating clean UI, efficient backend logic, and impactful digital solutions.
@@ -39,7 +39,7 @@ Passionate about creating clean UI, efficient backend logic, and impactful digit
 
 
 
-##  Tech Stack
+##  🛠️Tech Stack
 
 **Frontend:**  
 HTML • CSS • JavaScript (ES6+) • React.js • Bootstrap  
@@ -65,7 +65,7 @@ Git • GitHub • VS Code • Eclipse IDE
 [LinkedIn](https://www.linkedin.com/in/sadiya-sultana-22576a2b9) • [Portfolio](https://yy548328.wixsite.com/sadiya-sultana)
 
 
-## GitHub Stats
+## 📊GitHub Stats
 ![GitHub Stats]((https://github-readme-stats.vercel.app/api?username=sadiyaasultana&show_icons=true&theme=tokyonight&count_private=false&hide=prs,stars&hide_border=false&title_color=61dafb&icon_color=ffffff&text_color=d1d5db&border_color=2e3440))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiyaasultana&layout=compact&theme=tokyonight&hide_border=false&title_color=61dafb&text_color=d1d5db&border_color=2e3440))
@@ -79,7 +79,3 @@ Git • GitHub • VS Code • Eclipse IDE
 - JavaScript & DSA Certifications – Udemy  
 - Software Engineering Job Simulation – Forage  
 
-
-
-## ✨ Quote
-> “An evolving system increases its complexity unless work is done to reduce it.” — Manny Lehman
